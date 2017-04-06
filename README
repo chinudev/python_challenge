@@ -1,0 +1,16 @@
+Solving puzzles from http://www.pythonchallenge.com
+
+1. http://www.pythonchallenge.com/pc/def/0.html
+   Replace 0.html with 2^38.html 
+
+2. http://www.pythonchallenge.com/pc/def/274877906944.html
+   Simple substitution cipher
+   After getting the clue, translate "map" to get "ocr"
+
+3. http://www.pythonchallenge.com/pc/def/ocr.html
+   Webpage comment had a hint. Found rare characters by writing a 
+   python script. Got "aeilquty"; did a search in vim to find 
+   the order "equality"
+
+4. http://www.pythonchallenge.com/pc/def/equality.html
+
